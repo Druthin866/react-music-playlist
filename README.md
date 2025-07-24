@@ -1,20 +1,18 @@
-# React Music Playlist 🎶
+# 🎵 React Music Playlist App
 
-A simple React app to:
-- Play music from a list
-- Navigate to Next/Previous
-- Remove songs from playlist
+This is a simple React app for managing and playing songs in a playlist. You can:
 
-## Features
+- View the currently playing song
+- Navigate to the next or previous song
+- Select any song directly
+- Remove songs from the playlist
 
-- React state management with hooks
-- Dynamic song removal
-- Visual highlight of the current playing song
+## 🚀 Features
 
-## How to run
+- Built using React
+- Simple, clean UI
+- No external music files or API — just sample song names
+- Fully functional playlist logic
 
-1. Clone the repo
-2. Run `npm install`
-3. Run `npm start`
+## 📁 Folder Structure
 
-Enjoy the music! 🎧
